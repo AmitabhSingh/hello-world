@@ -1,2 +1,2 @@
 # hello-world
-this repository is about intro to github .
+this repository is about intro to myself .
